@@ -1,4 +1,4 @@
-#Disclaimer
+###Disclaimer
 
 All the information provided by Statbot LLC is published in good faith and for general information purpose only. Statbot LLC does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on Statbot LLC, is strictly at your own risk. Statbot LLC will not be liable for any losses and/or damages in connection with the use of our website. Statbot LLC is not a registered Financial advisor.
 We make every effort to ensure that we accurately represent these products and services and their potential for income. Earning and Income statements made by our company and its customers are estimates of what we think you can possibly earn. There is no guarantee that you will make these levels of income and you accept the risk that the earnings and income statements differ by individual.
