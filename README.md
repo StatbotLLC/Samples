@@ -21,7 +21,7 @@ We target 30% anualized volatility in all our strategies, and have stop losses.
 Statistically Signifigant Signals:
 We have backtested all our strategies with historical data and made them available here.
 
-Our daily reports in the discord are examples of these principles, not specific investment advice. The graphs include the % allocation of each asset.
+Our daily reports in the discord are examples of these principles, not specific investment advice. The graphs include the % allocation of each asset. The portfolio value is the raw account value. There are some straight lines where money was addded. 
 
 
 # Disclaimer
