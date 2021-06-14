@@ -1,4 +1,4 @@
-# Explanation
+# Welcome to Statbot
 
 There are 3 concepts you need to understand to be a consistantly profitable trader:
 
@@ -6,9 +6,9 @@ There are 3 concepts you need to understand to be a consistantly profitable trad
 2. Risk Management
 3. Statistically Signifigant Signals
 
-There have been many funds that have gone under over the years. Archegos, Long term capital managment, Amaranth Advisors, Bear Stearns Asset Management, Option Sellers, LLC, and many more. What did that have in common? They used too much leverage on a single stock or strategy.  Imagine managing billions of dollars and putting it all into one bet based on your feelings.
+There have been many funds that have gone under over the years. Archegos, Long term capital managment, Amaranth Advisors, Bear Stearns Asset Management, Option Sellers, LLC, and many more. What did that have in common? They used too much leverage on a single stock or strategy.  Imagine managing billions of dollars and borrowing billions more to put it all into one bet based on your feelings.
 
-We aim to survive in all possible markets no matter what happens by using 4 different strategies, position sizing, and historically profitable signals. We dont make huge bets based on news, "hunches",  or social media posts. 
+We aim to survive in all possible markets no matter what happens by using 4 different strategies, position sizing, and historically profitable signals. We dont make any manual trades.
 
 Diversification:
 1. Futures- short 2nd month vix during low volatility, trend follow all futures during high volatility. Historically, futures trend following does very well during market crashes, while vix futures decline in value in calm markets due to contango in the vix market.  Long/short.
@@ -19,7 +19,7 @@ Risk management:
 We target 30% anualized volatility in all our strategies, and have stop losses.
 
 Statistically Signifigant Signals:
-We have backtested all our strategies with historical data and made them available here.
+We have backtested all our strategies with historical data and made the results available here.
 
 Our daily reports in the discord are examples of these principles, not specific investment advice. The graphs include the % allocation of each asset. The portfolio value is the raw account value. There are some straight lines where money was addded or removed. We may reallocate our capital to strategies as we see fit. Do not copy our positions.
 
