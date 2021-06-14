@@ -23,6 +23,8 @@ We have backtested all our strategies with historical data and made them availab
 
 Our daily reports in the discord are examples of these principles, not specific investment advice. The graphs include the % allocation of each asset. The portfolio value is the raw account value. There are some straight lines where money was addded or removed. We may reallocate our capital to strategies as we see fit. Do not copy our positions.
 
+Brokers: We recommend low commision brokers. If your crypto trading fee is higher than 0.1% it is hard to be profitable. We use gemini (crypto), interactive brokers ( futures) , and alpaca (stocks) for automated trading our own accounts, but these may not be suitable for you.  Some brokers may be cheaper with API orders.
+
 
 # Disclaimer
 
