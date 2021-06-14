@@ -1,4 +1,4 @@
-###Disclaimer
+### Disclaimer
 
 All the information provided by Statbot LLC is published in good faith and for general information purpose only. Statbot LLC does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on Statbot LLC, is strictly at your own risk. Statbot LLC will not be liable for any losses and/or damages in connection with the use of our website. Statbot LLC is not a registered Financial advisor.
 We make every effort to ensure that we accurately represent these products and services and their potential for income. Earning and Income statements made by our company and its customers are estimates of what we think you can possibly earn. There is no guarantee that you will make these levels of income and you accept the risk that the earnings and income statements differ by individual.
@@ -18,7 +18,7 @@ Trading requires good knowledge of financial markets, trading techniques and str
 
 Before deciding to trade you should carefully consider your objectives, financial resources, needs, your level of experience and other circumstances. We recommend you seek advice from an independent financial advisor before going into real trading.
 
-#No Investment Advice Provided
+# No Investment Advice Provided
 
 Any opinions, chats, messages, news, research, analyses, prices or other information contained on Statbot LLC are provided as general market information for educational and entertainment purposes only, and do not constitute investment advice. Statbot LLC should not be relied upon as a substitute for extensive independent market research before making your actual trading decisions. Opinions, market data, recommendations or any other content is subject to change at any time without notice. Statbot LLC will not accept liability for any loss or damage, including without limitation any loss of profit, which may arise directly or indirectly from use of or reliance on such information.
 
@@ -27,11 +27,11 @@ Statbot LLC provides information about the stock market and other investments. S
 
 We do not recommend the use of technical analysis as a sole means of trading decisions. We do not recommend making hurried trading decisions. You should always understand that PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
 
-#Disclosure
+# Disclosure
 
 Statbot LLC is an independent investment information service and does not receive compensation in exchange for coverage of publicly traded companies. We are never compensated for choosing specific stocks. We are never compensated for grading a stock in a specific way. We do not manage any client assets under any circumstance. Statbot LLC is not a broker.
 
-#Consent
+# Consent
 
 By using our website, you hereby consent to our disclaimer and agree to its terms.
 
