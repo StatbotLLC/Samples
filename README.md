@@ -11,9 +11,9 @@ There have been many funds that have gone under over the years. Archegos, Long t
 We aim to survive in all possible markets no matter what happens by using 4 different strategies, position sizing, and historically profitable signals. We dont make huge bets based on news, "hunches",  or social media posts. 
 
 Diversification:
-1. Futures- short 2nd month vix during low volatility, trend follow all futures during high volatility. Historically, futures trend following does very well during market crashes, while vix futures decline in value in calm markets due to contango in the vix market. 
-2. Stocks- We pick the 20 highest momentum stocks and rebalance weekly.
-3. Crypto- We invest in the highest momentum cryptos on Gemini exchange.
+1. Futures- short 2nd month vix during low volatility, trend follow all futures during high volatility. Historically, futures trend following does very well during market crashes, while vix futures decline in value in calm markets due to contango in the vix market.  Long/short.
+2. Stocks- We pick the 20 highest momentum stocks and rebalance weekly. Long only.
+3. Crypto- We invest in the highest momentum cryptos on Gemini exchange. Long only.
 
 Risk management:
 We target 30% anualized volatility in all our strategies, and have stop losses.
