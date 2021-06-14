@@ -1,24 +1,38 @@
-Disclaimer
+#Disclaimer
+
 All the information provided by Statbot LLC is published in good faith and for general information purpose only. Statbot LLC does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on Statbot LLC, is strictly at your own risk. Statbot LLC will not be liable for any losses and/or damages in connection with the use of our website. Statbot LLC is not a registered Financial advisor.
 We make every effort to ensure that we accurately represent these products and services and their potential for income. Earning and Income statements made by our company and its customers are estimates of what we think you can possibly earn. There is no guarantee that you will make these levels of income and you accept the risk that the earnings and income statements differ by individual.
+
 As with any business, your results may vary, and will be based on your individual capacity, business experience, expertise, and level of desire. There are no guarantees concerning the level of success you may experience. The testimonials and examples used are exceptional results, which do not apply to the average purchaser, and are not intended to represent or guarantee that anyone will achieve the same or similar results. Each individual's success depends on his or her background, dedication, desire and motivation. Some individuals did succeed beyond expectations and that is of course always a possibility for any user.
 There is no assurance that examples of past earnings can be duplicated in the future. We cannot guarantee your future results and/or success. There are some unknown risks in business and on the internet that we cannot foresee which can reduce results. We are not responsible for your actions.
+
 The use of our information, products and services should be based on your own due diligence and you agree that our company is not liable for any success or failure of your business that is directly or indirectly related to the purchase and use of our information, products and services.
 Any opinions, news, research, analysis, prices, or other information contained on this website and/or software is provided as general market commentary, and does not constitute investment advice. Statbot LLC will not accept liability for any loss or damage, including without limitation to, any loss of profit, which may arise directly or indirectly from use of or reliance on such information. You must do your own due diligence for each trading signal and only invest according to your personal risk tolerance.
+
 Trading generally is not appropriate for someone with limited resources and limited investment or trading experience and low risk tolerance.
 Trading of forex,cryptocurrency, CFDs, derivatives and other investment products that are leveraged, can carry a high level of risk, and may not be suitable for all investors. The nature of leveraged products means that any market movement will have an equally proportional effect on your deposited funds. This may work against you as well as for you. It is possible that you could sustain a total loss of initial margin funds and will need to deposit additional funds to maintain your position. If you fail to meet any margin requirement, your position may be liquidated and you will be responsible for any resulting losses. Selling short may result in losses beyond your initial deposit as well, because you may have to purchase a security at a very high price in order to cover a short position. YOU MAY RAPIDLY LOSE ALL OF THE FUNDS DEPOSITED FOR TRADING AND YOU MAY EVEN LOSE MORE THAN YOUR DEPOSIT. Penny stock investors are often unable to sell stock back to the dealer that sold them the stock. Therefore, you should not speculate with capital that you cannot afford to lose. In particular, you should not fund trading with retirement savings, student loans, second mortgages, emergency funds, funds set aside for purposes such as education or home-ownership, or funds required to meet your living expenses.
+
 Trading and investing in cryptocurrencies (also called digital or virtual currencies, crypto assets, altcoins and so on) involves substantial risk of loss and is not suitable for every investor. The valuation of cryptocurrencies and futures may fluctuate, and, as a result, clients may lose more than their original investment. The highly leveraged nature of futures trading means that small market movements will have a great impact on your trading account and this can work against you, leading to large losses or can work for you, leading to large gains.
 
 Trading requires good knowledge of financial markets, trading techniques and strategies. You should understand that while trading you will compete with other market professionals, licensed traders and those employed by trading firms. In addition to normal market risks, you may experience losses due to system failures. Trading also may result in paying large commissions. The total size of commissions that you pay on your trades may significantly add to your losses or significantly reduce your earnings.
+
 Before deciding to trade you should carefully consider your objectives, financial resources, needs, your level of experience and other circumstances. We recommend you seek advice from an independent financial advisor before going into real trading.
-No Investment Advice Provided
+
+#No Investment Advice Provided
+
 Any opinions, chats, messages, news, research, analyses, prices or other information contained on Statbot LLC are provided as general market information for educational and entertainment purposes only, and do not constitute investment advice. Statbot LLC should not be relied upon as a substitute for extensive independent market research before making your actual trading decisions. Opinions, market data, recommendations or any other content is subject to change at any time without notice. Statbot LLC will not accept liability for any loss or damage, including without limitation any loss of profit, which may arise directly or indirectly from use of or reliance on such information.
+
 None of the content published by Statbot LLC constitutes a recommendation that any particular cryptocurrency, portfolio of cryptocurrencies, transaction or investment strategy is suitable for any specific person. None of the information providers or their affiliates will advise you personally concerning the nature, potential, value or suitability of any particular cryptocurrency, portfolio of cryptocurrencies, transaction, investment strategy or other matter.
 Statbot LLC provides information about the stock market and other investments. Statbot LLC does not provide investment advice and should not be used as a replacement for investment advice from a qualified professional. Statbot LLC is for informational purposes only. The owners of Statbot LLC are not a registered investment advisor and do not offer investment advice. You, the reader, bear responsibility for your own investment decisions and should seek the advice of a qualified securities professional before making any investment.
+
 We do not recommend the use of technical analysis as a sole means of trading decisions. We do not recommend making hurried trading decisions. You should always understand that PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
-Disclosure
+
+#Disclosure
+
 Statbot LLC is an independent investment information service and does not receive compensation in exchange for coverage of publicly traded companies. We are never compensated for choosing specific stocks. We are never compensated for grading a stock in a specific way. We do not manage any client assets under any circumstance. Statbot LLC is not a broker.
-Consent
+
+#Consent
+
 By using our website, you hereby consent to our disclaimer and agree to its terms.
 
 
