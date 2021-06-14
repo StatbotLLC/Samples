@@ -1,3 +1,29 @@
+# Explanation
+
+There are 3 concepts you need to understand to be a consistantly profitable trader:
+
+1. Diversification
+2. Risk Management
+3. Statistically Signifigant Signals
+
+There have been many funds that have gone under over the years. Archegos, Long term capital managment, Amaranth Advisors, Bear Stearns Asset Management, Option Sellers, LLC, and many more. What did that have in common? They used too much leverage on a single stock or strategy.  Imagine managing billions of dollars and putting it all into one bet based on your feelings.
+
+We aim to survive in all possible markets no matter what happens by using 4 different strategies, position sizing, and historically profitable signals. We dont make huge bets based on news, "hunches",  or social media posts. 
+
+Diversification:
+1. Futures- short 2nd month vix during low volatility, trend follow all futures during high volatility. Historically, futures trend following does very well during market crashes, while vix futures decline in value in calm markets due to contango in the vix market. 
+2. Stocks- We pick the 20 highest momentum stocks and rebalance weekly.
+3. Crypto- We invest in the highest momentum cryptos on Gemini exchange.
+
+Risk management:
+We target 30% anualized volatility in all our strategies, and have stop losses.
+
+Statistically Signifigant Signals:
+We have backtested all our strategies with historical data and made them available here.
+
+Our daily reports in the discord are examples of these principles, not specific investment advice. The graphs include the % allocation of each asset.
+
+
 # Disclaimer
 
 All the information provided by Statbot LLC is published in good faith and for general information purpose only. Statbot LLC does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on Statbot LLC, is strictly at your own risk. Statbot LLC will not be liable for any losses and/or damages in connection with the use of our website. Statbot LLC is not a registered Financial advisor.
