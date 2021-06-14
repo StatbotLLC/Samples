@@ -12,8 +12,8 @@ We aim to survive in all possible markets no matter what happens by using 4 diff
 
 Diversification:
 1. Futures- short 2nd month vix during low volatility, trend follow all futures during high volatility. Historically, futures trend following does very well during market crashes, while vix futures decline in value in calm markets due to contango in the vix market.  Long/short.
-2. Stocks- We pick the 20 highest momentum stocks and rebalance weekly. Long only.
-3. Crypto- We invest in the highest momentum cryptos on Gemini exchange. Long only.
+2. Stocks- We pick the 20 highest momentum stocks and rebalance weekly. Long only.  You're better off trend following futures in a bear market than shorting stocks.
+3. Crypto- We invest in the highest momentum cryptos on Gemini exchange. Long only. Shorting is risky, better to buy the dip or hold usd.
 
 Risk management:
 We target 30% anualized volatility in all our strategies, and have stop losses.
