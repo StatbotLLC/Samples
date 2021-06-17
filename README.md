@@ -11,19 +11,22 @@ There have been many funds that have gone under over the years. Archegos, Long t
 We aim to survive in all possible markets no matter what happens by using 4 different strategies, position sizing, and historically profitable signals. We dont make any manual trades.
 
 Diversification:
-1. Futures- short 2nd month vix during low volatility, trend follow all futures during high volatility. Historically, futures trend following does very well during market crashes, while vix futures decline in value in calm markets due to contango in the vix market.  Long/short.
+1. Futures- short 2nd month vix during low volatility, trend follow all futures during high volatility. Historically, futures trend following does very well during market crashes, while vix futures decline in value in calm markets due to contango in the vix market.  Long/short. see papers below:
+https://www.semanticscholar.org/paper/The-VIX-Futures-Basis-%3A-Evidence-and-Trading-Simon/937743fa36e1f0735349cae1830a45fb2ab5b492
+https://www.grahamcapital.com/Trend-Following%20and%20Volatility%20Regimes.pdf
+
 2. Stocks- We pick the 20 highest momentum stocks and rebalance weekly. Long only.  You're better off trend following futures in a bear market than shorting stocks.
-3. Crypto- We invest in the highest momentum cryptos on Gemini exchange. Long only. Shorting is risky, better to buy the dip or hold usd.
+4. Crypto- We invest in the highest momentum cryptos on Gemini exchange. Long only. Shorting is risky, better to buy the dip or hold usd.
 
 Risk management:
 We target 30% anualized volatility in all our strategies, and have stop losses.
 
 Statistically Signifigant Signals:
-We have backtested all our strategies with historical data and made the results available here.
+We have backtested all our strategies with historical data and made the results available here. However, they are just simulations and may not simulate real market conditions. Do not assume that we will achieve similar returns going forward. The past does not predict the future.
 
 Our daily reports in the discord are examples of these principles, not specific investment advice. The graphs include the % allocation of each asset. The portfolio value is the raw account value. There are some straight lines where money was addded or removed. We may reallocate our capital to strategies as we see fit. Do not copy our positions.
 
-Brokers: We recommend low commision brokers. If your crypto trading fee is higher than 0.1% it is hard to be profitable. We use gemini (crypto), interactive brokers ( futures) , and alpaca (stocks) for automated trading our own accounts, but these may not be suitable for you.  Some brokers may be cheaper with API orders.
+Brokers: We recommend low commision brokers. If your crypto trading fee is higher than 0.1% it is hard to be profitable. We use gemini (crypto), interactive brokers ( futures) , and alpaca (stocks) for automated trading our own accounts, but these may not be suitable for you. We do not endorse these brokers.  Some brokers may be cheaper with API orders.
 
 
 # Disclaimer
