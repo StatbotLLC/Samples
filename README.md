@@ -11,7 +11,7 @@ There have been many funds that have gone under over the years. Archegos, Long t
 We aim to survive in all possible markets no matter what happens by using 4 different strategies, position sizing, and historically profitable signals. We dont make any manual trades.
 
 Diversification:
-1. Futures- short 2nd month vix during low volatility, trend follow all futures during high volatility. Historically, futures trend following does very well during market crashes, while vix futures decline in value in calm markets due to contango in the vix market.  Long/short. see papers below:
+1. Futures- short 2nd month vix during low volatility, trend follow all futures during high volatility. Historically, futures trend following does very well during market crashes, while vix futures decline in value in calm markets due to contango in the vix market.  Long/short. See papers below:
 
 https://www.semanticscholar.org/paper/The-VIX-Futures-Basis-%3A-Evidence-and-Trading-Simon/937743fa36e1f0735349cae1830a45fb2ab5b492
 
