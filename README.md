@@ -1,5 +1,7 @@
 # Welcome to Statbot
 
+# Join the Discord https://discord.gg/UU8us5vPYk
+
 There are 3 concepts you need to understand to be a consistantly profitable trader:
 
 1. Diversification
