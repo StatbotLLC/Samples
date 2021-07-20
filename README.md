@@ -8,7 +8,7 @@ There are 3 concepts you need to understand to be a consistantly profitable trad
 
 There have been many funds that have gone under over the years. Archegos, Long term capital managment, Amaranth Advisors, Bear Stearns Asset Management, Option Sellers, LLC, and many more. What did that have in common? They used too much leverage on a single stock or strategy.  Imagine managing billions of dollars and borrowing billions more to put it all into one bet based on your feelings.
 
-We aim to survive in all possible markets no matter what happens by using 4 different strategies, position sizing, and historically profitable signals. We dont make any manual trades.
+We aim to survive in all possible markets no matter what happens by using 4 different strategies, position sizing, and historically profitable signals. We may make manual trades for better entries/exits.
 
 Diversification:
 1. Futures- short 2nd month vix during low volatility, trend follow all futures during high volatility. Historically, futures trend following does very well during market crashes, while vix futures decline in value in calm markets due to contango in the vix market.  Long/short. See papers below:
